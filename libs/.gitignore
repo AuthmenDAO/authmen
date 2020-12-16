@@ -1,0 +1,7 @@
+*.sw[opqr]
+vendor
+.glide
+
+.idea/
+.vscode/
+.DS_Store
