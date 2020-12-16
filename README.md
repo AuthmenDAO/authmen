@@ -1,9 +1,9 @@
 # Authmen
-##Trusted Cross-Blockchain Storage Protocol
+Trusted Cross-Blockchain Storage Protocol
 
 Authmen is a trusted blockchain storage protocol. It is a new storage scheme based on the distributed idea of blockchain. It mainly solves the problems of data storage and data flow. Using trusted blockchain technology distributed high availability, open and transparent, tamper proof, information security and other technical characteristics, to build information security tamper proof and traceability system.
 
-##Authmen is a middleware to solve all kinds of confusion and problems of distributed storage protocol. The characteristics of Authmen trusted storage protocol are:
+Authmen is a middleware to solve all kinds of confusion and problems of distributed storage protocol. The characteristics of Authmen trusted storage protocol are:
 
 1. More Efficient And Secure Storage
 The design is exquisite and has stronger performance. It can realize the fast blockchain storage and traceability scheme corresponding to the key information system, and carry out the storage and transmission based on the blockchain in the process of data sharing.
@@ -17,7 +17,7 @@ It can provide efficient and convenient blockchain services for enterprises and 
 4. Trusted Storage Node
 With the combination of the security technology of Trias trusted basic chain and Byzantine consensus algorithm after blockchain optimization, it innovatively increases the weight consensus proportion factor of reputation system, greatly reduces the consensus computing cost of blockchain node information, and accelerates the transmission speed of data on the blockchain. By introducing the mechanism of trusted computing, the storage nodes are given credit system factors, which greatly reduces the consensus complexity of consensus nodes, and improves the execution time of existing distributed storage blockchain by more than 10 times.
 
-##Authmen Technology: 
+Authmen Technology: 
 
 Authmen adopts the three-layer computing power system based on Leviatom in Trias architecture, and the combination of TEE trusted computing and zero knowledge proof technology to complete the right confirmation and security protection of distributed storage data.
 The trusted network constructed by Levitom layer of Trias maintains a unique white list for each storage node, which can prevent the loading of abnormal programs and effectively block network security attacks. At the same time, HCGraph is a trusted computing technology based on heterogeneous TEE. With the help of gossip protocol, a “trusted acquaintance” network is constructed between consensus nodes using different TEE technologies, and a “conspiracy default” model of global nodes is constructed to locate trusted nodes efficiently, which makes consensus more efficient and cost-effective.
@@ -25,7 +25,7 @@ The trusted network constructed by Levitom layer of Trias maintains a unique whi
 Through trusted computing, Authmen enables different TEE protocols to collect the latest status of neighboring nodes, check and record historical information, and propagate the results among other nodes through gossip protocol, and form a reputation network. It repeatedly selects “the most difficult point to lie” as its repeated function contract presentation, forming a robust and efficient running environment, and building a trusted computing based environment based on the blockchain distributed storage security network.
 
 
-##Authmen Token Metrics:
+Authmen Token Metrics:
 
 - Token Ticketer: AUTH
 - Total supply: 10,000,000 (10 million tokens)
@@ -36,7 +36,7 @@ Through trusted computing, Authmen enables different TEE protocols to collect th
 - Uniswap Liquidity Provision: 100,000 (1%)
 
 
-##Authmen Token release schedule and Lockups:
+Authmen Token release schedule and Lockups:
 
 - ● Liquidity mining follows mining rate (1 million per year for 8 years. Starting a few weeks after bounce sale).
 - ● Public sale tokens will be liquid right after the sale.
