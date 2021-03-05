@@ -1,20 +1,20 @@
-**Authmen NFT****挖矿教程**
+# **Authmen NFT 挖矿教程**
 
 开始前请确保钱包中有足够的ETH支付GAS费用。
 
  
 
-**开启挖矿前，你需要进行两个步骤：**
+## **开启挖矿前，你需要进行两个步骤：**
 
-**1****、存入一个Authmen NFT；**
+**1、存入一个Authmen NFT；**
 
-**2****、质押Uniswap LP Token。**
+**2、质押Uniswap LP Token。**
 
 ![image](./images/clip_image002.png)
 
  
 
-**获取Authmen NFT**
+## **获取Authmen NFT**
 
 在首次挖矿前，你有两个方法获取Authmen NFT：
 
@@ -76,7 +76,7 @@
 
  
 
-**获取Uniswap LP Token**
+## **获取Uniswap LP Token**
 
 目前你已经完成挖矿的第一步——获得一个Authmen NFT，接下来你需要质押Uniswap LP Token来开始挖矿。
 
@@ -118,7 +118,7 @@
 
  
 
-**开始挖矿**
+## **开始挖矿**
 
 **质押Authmen NFT**
 
